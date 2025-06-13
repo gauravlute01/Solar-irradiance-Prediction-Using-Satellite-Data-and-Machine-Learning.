@@ -1,5 +1,4 @@
-# 🌞 Solar Irradiance Prediction Using Satellite Data and Machine Learning
-![Image Alt Text](plots/GHI_diagram.png)
+# 🌞 Solar Irradiance Prediction Using Satellite Data and Machine Learning.
 
 ![Preview](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning./blob/main/Gaurav_Lute_MT2313poster.pdf)
 
@@ -30,7 +29,7 @@ Use time series models to forecast future GHI values — targeting March 2025.
 - **Target:** `ALLSKY_SFC_SW_DWN` (Global Horizontal Irradiance)  
 - **Features:** T2M, RH2M, WS10M, Precipitation, Cloud Cover, Pressure, DOY, Lag values
 
-📊 ![Dataset Overview](plots/Dataset_description.png)
+📊 ![Dataset Overview](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning./blob/main/Plots/Dataset_description.png)
 
 ---
 
