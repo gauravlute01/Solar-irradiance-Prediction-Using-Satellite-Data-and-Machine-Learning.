@@ -85,7 +85,7 @@ Use time series models to forecast future GHI values — targeting March 2025.
 
 | Model        | 1-Month Prediction | 3-Month Prediction |
 |--------------|--------------------|---------------------|
-| **XGBoost**  | ![XGBoost March](plots/Xgboost_march.png) | ![XGBoost 3-month](plots/xgboost_three.png) |
+| **XGBoost**  | ![XGBoost March](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning./blob/main/Plots/Xgboost_march.png) | ![XGBoost 3-month](plots/xgboost_three.png) |
 | **LightGBM** | ![LGBM March](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning./blob/main/Plots/Lightgbm_one.png) | ![LGBM 3-month](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning./blob/main/Plots/Lightgbm_three.png) |
 | **Prophet**  | ![Prophet March](plots/prophet_one.png) | _(3-month Prophet not included)_ |
 
