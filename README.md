@@ -117,7 +117,7 @@ Use time series models to forecast future GHI values — targeting March 2025.
 **Gaurav Prakash Lute**  
 M.Tech – Modeling and Simulation  
 Savitribai Phule Pune University  
-📧 lute.gaurav@scms.unipune.ac.in  
+📧 lute.gaurav@scms.unipune.ac.in  📧 lutegaurav1@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/gauravlute01)
 
 ---
