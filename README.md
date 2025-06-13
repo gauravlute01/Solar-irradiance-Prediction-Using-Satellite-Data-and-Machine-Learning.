@@ -41,7 +41,7 @@ Use time series models to forecast future GHI values — targeting March 2025.
 - Model development and evaluation
 - Forecast visualization
 
-📈 ![Workflow](plots/Flow%20Chart.png)
+📈 ![Workflow](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning./blob/main/Plots/Flow%20Chart.png)
 
 ---
 
