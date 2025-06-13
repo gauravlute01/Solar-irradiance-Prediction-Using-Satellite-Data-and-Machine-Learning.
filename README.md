@@ -1,6 +1,6 @@
 # 🌞 Solar Irradiance Prediction Using Satellite Data and Machine Learning
 
-![Project Banner](plots/GHI_diagram.png)
+![Project Banner]([plots/GHI_diagram.png](https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning./blob/main/Gaurav_Lute_MT2313poster.pdf))
 
 ## 🔍 Overview
 
