@@ -29,7 +29,7 @@ Use time series models to forecast future GHI values — targeting March 2025.
 - **Target:** `ALLSKY_SFC_SW_DWN` (Global Horizontal Irradiance)  
 - **Features:** T2M, RH2M, WS10M, Precipitation, Cloud Cover, Pressure, DOY, Lag values
 
-📊 See: [`plots/Dataset_description.png`](plots/Dataset_description.png)
+📊 ![Dataset Overview](plots/Dataset_description.png)
 
 ---
 
@@ -41,7 +41,7 @@ Use time series models to forecast future GHI values — targeting March 2025.
 - Model development and evaluation
 - Forecast visualization
 
-📈 Workflow: [`plots/Flow Chart.png`](plots/Flow%20Chart.png)
+📈 ![Workflow](plots/Flow%20Chart.png)
 
 ---
 
@@ -81,11 +81,13 @@ Use time series models to forecast future GHI values — targeting March 2025.
 
 ## 🖼️ Visual Results
 
+### 📅 March 2025 Forecast Comparison
+
 | Model        | 1-Month Prediction | 3-Month Prediction |
 |--------------|--------------------|---------------------|
-| **XGBoost**  | ![](plots/Xgboost_march.png) | ![](plots/xgboost_three.png) |
-| **LightGBM** | ![](plots/Lightgbm_one.png)  | ![](plots/Lightgbm_three.png) |
-| **Prophet**  | ![](plots/prophet_one.png)   | _(3-month Prophet omitted)_ |
+| **XGBoost**  | ![XGBoost March](plots/Xgboost_march.png) | ![XGBoost 3-month](plots/xgboost_three.png) |
+| **LightGBM** | ![LGBM March](plots/Lightgbm_one.png)  | ![LGBM 3-month](plots/Lightgbm_three.png) |
+| **Prophet**  | ![Prophet March](plots/prophet_one.png) | _(3-month Prophet not included)_ |
 
 ---
 
@@ -122,14 +124,15 @@ Savitribai Phule Pune University
 
 ## 📌 Citation
 
-If this project helped your research or learning, please consider citing it:
-
+```bibtex
+@project{lute2025solar,
+  title     = {Solar Irradiance Prediction Using Satellite Data and Machine Learning},
+  author    = {Gaurav Prakash Lute},
+  year      = {2025},
+  institution = {Savitribai Phule Pune University},
+  url       = {https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning}
+}
 
 ---
 
-## ⭐ Feedback & Contributions
-
-If you found this useful, feel free to ⭐ star the repo or [raise an issue](https://github.com/gauravlute01/.../issues) with feedback or questions.
-
----
-
+Would you like me to also create this as a downloadable `.md` file for uploading directly to your GitHub repo?
