@@ -134,7 +134,3 @@ Savitribai Phule Pune University
   institution = {Savitribai Phule Pune University},
   url       = {https://github.com/gauravlute01/Solar-irradiance-Prediction-Using-Satellite-Data-and-Machine-Learning}
 }
-
----
-
-Would you like me to also create this as a downloadable `.md` file for uploading directly to your GitHub repo?
