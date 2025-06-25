@@ -13,7 +13,7 @@ This project aims to predict **Global Horizontal Irradiance (GHI)** — a crucia
 ## 📌 Project Objectives
 
 ### ✅ Objective 1: ML-based GHI Prediction  
-Build machine learning models to predict daily GHI values using environmental features.
+Build machine learning models to predict daily GHI values using environmental features
 
 ### ✅ Objective 2: GHI Forecasting for March 2025  
 Use time series models to forecast future GHI values — targeting March 2025.
